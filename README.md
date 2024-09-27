@@ -1,1 +1,5 @@
 # Stock-market-prediction-using-LSTM
+This research paper presents an innovative approach to improve stock market predictions by leveraging the strengths of Long Short-Term Memory (LSTM) based on a comparative analysis with Multi-Level Perceptron (MLP) models. The study compares the predictive capabilities of Random Forest, MLP, and LSTM models, with MLP demonstrating superior accuracy compared to Random Forest in the initial analysis. Building upon this finding, LSTM is employed by incorporating MLP predictions to forecast future market trends. The proposed technique demonstrates reliable results by combining machine learning and deep learning approaches. The MLP analysis further enhances the suggested model, resulting in improved accuracy and reduced mean square error. The result highlights the potential of integrating LSTM and MLP models for enhanced stock market predictions, offering valuable insights for financial forecasting and opening avenues for further research and refinement in this field.
+
+Link for the paper:
+https://pubs.aip.org/aip/acp/article-abstract/3072/1/020023/3277787/Improving-stock-market-predictions-using-LSTM?redirectedFrom=fulltext
